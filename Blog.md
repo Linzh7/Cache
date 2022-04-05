@@ -57,3 +57,7 @@ Bitbucket 旗下的静态网站托管服务。
 
 ## 总结
 推荐使用 Netlify，如果要顺便托管 Node.js 服务可以用 now。
+
+
+# Hugo 添加 KaTeX支持
+https://mertbakir.gitlab.io/hugo/math-typesetting-in-hugo/
